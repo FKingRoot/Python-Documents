@@ -1,4 +1,4 @@
-1¡¢pylint  python´úÂë¼ì²é¹¤¾ß
-2¡¢flask 
-3¡¢flask-script
-4¡¢flask-sqlalchemy
+ï»¿1ã€pylint  pythonä»£ç æ£€æŸ¥å·¥å…·
+2ã€flask 
+3ã€flask-script
+4ã€flask-sqlalchemy
