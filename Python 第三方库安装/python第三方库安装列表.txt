@@ -1,1 +1,4 @@
 1、pylint  python代码检查工具
+2、flask 
+3、flask-script
+4、flask-sqlalchemy
