@@ -2,3 +2,4 @@
 2、flask 
 3、flask-script
 4、flask-sqlalchemy  先自我安装SQLALchemy
+5、flask-migrate flask-migrate是基于Alembic进行的一个封装，并集成到Flask中，而所有的迁移操作其实都是Alembic做的，他能跟踪模型的变化，并将变化映射到数据库中
